@@ -1,0 +1,593 @@
+[{
+  "_id": {
+    "$oid": "6451bf986433ebfcf4a002e7"
+  },
+  "nombre": "Samsung Galaxy S21",
+  "precio": 1200,
+  "especificaciones": {
+    "pantalla": "Dynamic AMOLED 2X de 6.2 pulgadas",
+    "procesador": "Exynos 2100",
+    "memoria RAM": "8 GB",
+    "almacenamiento": "128 GB"
+  },
+  "categoria": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6451bf986433ebfcf4a002e8"
+  },
+  "nombre": "iPhone 12",
+  "precio": 1500,
+  "especificaciones": {
+    "pantalla": "Super Retina XDR de 6.1 pulgadas",
+    "procesador": "A14 Bionic",
+    "memoria RAM": "4 GB",
+    "almacenamiento": "128 GB"
+  },
+  "categoria": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6451bf986433ebfcf4a002e9"
+  },
+  "nombre": "Macbook Air",
+  "precio": 1300,
+  "especificaciones": {
+    "pantalla": "Retina de 13.3 pulgadas",
+    "procesador": "Apple M1",
+    "memoria RAM": "8 GB",
+    "almacenamiento": "256 GB SSD"
+  },
+  "categoria": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6451c1f21ac2c56a72d6e718"
+  },
+  "nombre": "Laptop Dell XPS 13",
+  "precio": 1200,
+  "especificaciones": {
+    "pantalla": "Full HD de 13.3 pulgadas",
+    "procesador": "Intel Core i7-1165G7",
+    "memoria RAM": "16 GB LPDDR4X",
+    "almacenamiento": "512 GB SSD",
+    "conectividad": [
+      "USB-C",
+      "Thunderbolt 4",
+      "WiFi 6",
+      "Bluetooth 5.1"
+    ]
+  },
+  "categoria": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6451c2001ac2c56a72d6e719"
+  },
+  "nombre": "Cámara Canon EOS R5",
+  "precio": 4000,
+  "especificaciones": {
+    "resolución de imagen": "45 megapíxeles",
+    "resolución de video": "8K",
+    "sistema de enfoque": "Autofocus Dual Pixel CMOS II",
+    "velocidad de disparo": "12 fps",
+    "conectividad": [
+      "WiFi",
+      "Bluetooth",
+      "USB-C",
+      "HDMI"
+    ]
+  },
+  "categoria": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6451cfae54214aa7c5f0b76e"
+  },
+  "nombre": "Mesa de madera",
+  "precio": 250000,
+  "categoria": "Muebles",
+  "descripcion": "Mesa de madera rústica de 6 sillas para comedor"
+},
+{
+  "_id": {
+    "$oid": "6451cfae54214aa7c5f0b76f"
+  },
+  "nombre": "Juego de cuchillos",
+  "precio": 65000,
+  "categoria": "Hogar",
+  "descripcion": "Juego de cuchillos de acero inoxidable con soporte de madera"
+},
+{
+  "_id": {
+    "$oid": "6451cfae54214aa7c5f0b770"
+  },
+  "nombre": "Mochila de montaña",
+  "precio": 120000,
+  "categoria": "Deportes",
+  "descripcion": "Mochila de montaña con capacidad de 50 litros y múltiples compartimentos"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897e2"
+  },
+  "nombre": "Apple iPhone 13",
+  "precio": 999,
+  "especificaciones": {
+    "pantalla": "Super Retina XDR de 6.1 pulgadas",
+    "procesador": "A15 Bionic",
+    "memoria_RAM": "4 GB",
+    "almacenamiento": "128 GB"
+  },
+  "categoria": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897e3"
+  },
+  "nombre": "Samsung Galaxy S22",
+  "precio": 1199,
+  "especificaciones": {
+    "pantalla": "Dynamic AMOLED 2X de 6.6 pulgadas",
+    "procesador": "Snapdragon 8 Gen 1",
+    "memoria_RAM": "8 GB",
+    "almacenamiento": "256 GB"
+  },
+  "categoria": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897e4"
+  },
+  "nombre": "Xiaomi Redmi Note 11",
+  "precio": 299,
+  "especificaciones": {
+    "pantalla": "AMOLED de 6.43 pulgadas",
+    "procesador": "Snapdragon 680",
+    "memoria_RAM": "4 GB",
+    "almacenamiento": "64 GB"
+  },
+  "categoria": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897e5"
+  },
+  "nombre": "HP Pavilion 15",
+  "precio": 749,
+  "especificaciones": {
+    "pantalla": "FHD de 15.6 pulgadas",
+    "procesador": "Intel Core i5-1135G7",
+    "memoria_RAM": "8 GB",
+    "almacenamiento": "512 GB SSD"
+  },
+  "categoria": "Computadoras"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897e6"
+  },
+  "nombre": "MacBook Air M1",
+  "precio": 999,
+  "especificaciones": {
+    "pantalla": "Retina de 13.3 pulgadas",
+    "procesador": "Apple M1",
+    "memoria_RAM": "8 GB",
+    "almacenamiento": "256 GB SSD"
+  },
+  "categoria": "Computadoras"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897e7"
+  },
+  "nombre": "Sony WH-1000XM4",
+  "precio": 349,
+  "especificaciones": {
+    "tipo": "Auriculares inalámbricos",
+    "cancelacion_ruido": "Sí",
+    "bateria": "30 horas"
+  },
+  "categoria": "Audio"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897e8"
+  },
+  "nombre": "GoPro Hero 10",
+  "precio": 399,
+  "especificaciones": {
+    "resolucion": "5.3K",
+    "sumergible": "10 metros",
+    "pantalla": "LCD"
+  },
+  "categoria": "Cámaras"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897e9"
+  },
+  "nombre": "PlayStation 5",
+  "precio": 499,
+  "especificaciones": {
+    "tipo": "Consola de juegos",
+    "procesador": "AMD Ryzen Zen 2",
+    "almacenamiento": "825 GB SSD"
+  },
+  "categoria": "Videojuegos"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897ea"
+  },
+  "nombre": "Apple Watch Series 7",
+  "precio": 399,
+  "especificaciones": {
+    "tipo": "Smartwatch",
+    "pantalla": "Retina de 1.69 pulgadas",
+    "resistente_agua": "50 metros"
+  },
+  "categoria": "Wearables"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897eb"
+  },
+  "nombre": "Instant Pot Duo",
+  "precio": 89,
+  "especificaciones": {
+    "tipo": "Olla de presión",
+    "capacidad": "6 litros",
+    "funciones": [
+      "cocción lenta",
+      "cocción a presión",
+      "saltear"
+    ]
+  },
+  "categoria": "Cocina"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897ec"
+  },
+  "nombre": "Kindle Paperwhite",
+  "precio": 129,
+  "especificaciones": {
+    "pantalla": "6.8 pulgadas E Ink",
+    "almacenamiento": "8 GB",
+    "resistente_agua": "IPX8"
+  },
+  "categoria": "Lectura"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897ed"
+  },
+  "nombre": "Dell XPS 13",
+  "precio": 999,
+  "especificaciones": {
+    "pantalla": "13.4 pulgadas FHD+",
+    "procesador": "Intel Core i7-1165G7",
+    "memoria_RAM": "16 GB",
+    "almacenamiento": "512 GB SSD"
+  },
+  "categoria": "Computadoras"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897ee"
+  },
+  "nombre": "Bose SoundLink Revolve",
+  "precio": 199,
+  "especificaciones": {
+    "tipo": "Altavoz Bluetooth",
+    "bateria": "12 horas",
+    "resistente_agua": "IPX4"
+  },
+  "categoria": "Audio"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897ef"
+  },
+  "nombre": "Nintendo Switch",
+  "precio": 299,
+  "especificaciones": {
+    "tipo": "Consola de juegos híbrida",
+    "pantalla": "6.2 pulgadas",
+    "almacenamiento": "32 GB"
+  },
+  "categoria": "Videojuegos"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897f0"
+  },
+  "nombre": "Logitech MX Master 3",
+  "precio": 99,
+  "especificaciones": {
+    "tipo": "Ratón inalámbrico",
+    "conectividad": "Bluetooth y USB",
+    "duracion_bateria": "70 días"
+  },
+  "categoria": "Accesorios"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897f1"
+  },
+  "nombre": "Nikon D5600",
+  "precio": 699,
+  "especificaciones": {
+    "tipo": "Cámara DSLR",
+    "resolucion": "24.2 MP",
+    "pantalla": "LCD de 3.2 pulgadas"
+  },
+  "categoria": "Cámaras"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897f2"
+  },
+  "nombre": "Dyson V11 Torque Drive",
+  "precio": 599,
+  "especificaciones": {
+    "tipo": "Aspiradora inalámbrica",
+    "bateria": "60 minutos",
+    "peso": "3 kg"
+  },
+  "categoria": "Hogar"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897f3"
+  },
+  "nombre": "Apple iPad Pro 11\"",
+  "precio": 799,
+  "especificaciones": {
+    "pantalla": "Liquid Retina de 11 pulgadas",
+    "procesador": "Apple M1",
+    "memoria_RAM": "8 GB",
+    "almacenamiento": "128 GB"
+  },
+  "categoria": "Tabletas"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897f4"
+  },
+  "nombre": "Sony A7 III",
+  "precio": 1999,
+  "especificaciones": {
+    "tipo": "Cámara sin espejo",
+    "resolucion": "24.2 MP",
+    "sensibilidad_ISO": "100-51200"
+  },
+  "categoria": "Cámaras"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897f5"
+  },
+  "nombre": "Samsung Galaxy Tab S7",
+  "precio": 649,
+  "especificaciones": {
+    "pantalla": "LCD de 11 pulgadas",
+    "procesador": "Snapdragon 865+",
+    "memoria_RAM": "6 GB",
+    "almacenamiento": "128 GB"
+  },
+  "categoria": "Tabletas"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897f6"
+  },
+  "nombre": "LG OLED C1 55\"",
+  "precio": 1499,
+  "especificaciones": {
+    "pantalla": "OLED 4K de 55 pulgadas",
+    "resolucion": "3840 x 2160",
+    "conectividad": [
+      "HDMI",
+      "USB",
+      "Bluetooth"
+    ]
+  },
+  "categoria": "Televisores"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897f7"
+  },
+  "nombre": "ASUS ROG Zephyrus G14",
+  "precio": 1299,
+  "especificaciones": {
+    "pantalla": "FHD de 14 pulgadas",
+    "procesador": "AMD Ryzen 9 5900HS",
+    "memoria_RAM": "16 GB",
+    "almacenamiento": "1 TB SSD"
+  },
+  "categoria": "Computadoras"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897f8"
+  },
+  "nombre": "Fitbit Charge 5",
+  "precio": 179,
+  "especificaciones": {
+    "tipo": "Pulsera de actividad",
+    "pantalla": "AMOLED",
+    "resistente_agua": "50 metros"
+  },
+  "categoria": "Wearables"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897f9"
+  },
+  "nombre": "Canon EOS R5",
+  "precio": 3899,
+  "especificaciones": {
+    "tipo": "Cámara sin espejo",
+    "resolucion": "45 MP",
+    "video": "8K"
+  },
+  "categoria": "Cámaras"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897fa"
+  },
+  "nombre": "Samsung Galaxy Buds Pro",
+  "precio": 199,
+  "especificaciones": {
+    "tipo": "Auriculares inalámbricos",
+    "cancelacion_ruido": "Sí",
+    "bateria": "5 horas"
+  },
+  "categoria": "Audio"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897fb"
+  },
+  "nombre": "Instant Vortex Air Fryer",
+  "precio": 129,
+  "especificaciones": {
+    "tipo": "Freidora de aire",
+    "capacidad": "5.7 litros",
+    "funciones": [
+      "freír",
+      "hornear",
+      "asar"
+    ]
+  },
+  "categoria": "Cocina"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897fc"
+  },
+  "nombre": "Acer Predator Helios 300",
+  "precio": 1099,
+  "especificaciones": {
+    "pantalla": "FHD de 15.6 pulgadas",
+    "procesador": "Intel Core i7-10750H",
+    "memoria_RAM": "16 GB",
+    "almacenamiento": "512 GB SSD"
+  },
+  "categoria": "Computadoras"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897fd"
+  },
+  "nombre": "DJI Mini 2",
+  "precio": 449,
+  "especificaciones": {
+    "tipo": "Dron",
+    "resolucion": "4K",
+    "peso": "249 g"
+  },
+  "categoria": "Drones"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897fe"
+  },
+  "nombre": "Apple AirPods Max",
+  "precio": 549,
+  "especificaciones": {
+    "tipo": "Auriculares inalámbricos",
+    "cancelacion_ruido": "Sí",
+    "bateria": "20 horas"
+  },
+  "categoria": "Audio"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba8897ff"
+  },
+  "nombre": "Sony PlayStation DualSense",
+  "precio": 69,
+  "especificaciones": {
+    "tipo": "Control inalámbrico",
+    "compatibilidad": "PlayStation 5",
+    "conectividad": "Bluetooth"
+  },
+  "categoria": "Videojuegos"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba889800"
+  },
+  "nombre": "Crock-Pot Slow Cooker",
+  "precio": 59,
+  "especificaciones": {
+    "tipo": "Olla de cocción lenta",
+    "capacidad": "4 litros",
+    "funciones": [
+      "cocción lenta",
+      "mantener caliente"
+    ]
+  },
+  "categoria": "Cocina"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba889801"
+  },
+  "nombre": "Microsoft Surface Pro 7",
+  "precio": 899,
+  "especificaciones": {
+    "pantalla": "PixelSense de 12.3 pulgadas",
+    "procesador": "Intel Core i5",
+    "memoria_RAM": "8 GB",
+    "almacenamiento": "128 GB SSD"
+  },
+  "categoria": "Tabletas"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba889802"
+  },
+  "nombre": "Logitech C920 HD Pro",
+  "precio": 79,
+  "especificaciones": {
+    "tipo": "Cámara web",
+    "resolucion": "1080p",
+    "conectividad": "USB"
+  },
+  "categoria": "Accesorios"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba889803"
+  },
+  "nombre": "Nest Learning Thermostat",
+  "precio": 249,
+  "especificaciones": {
+    "tipo": "Termostato inteligente",
+    "compatibilidad": "Wi-Fi",
+    "funciones": [
+      "control remoto",
+      "ahorro de energía"
+    ]
+  },
+  "categoria": "Hogar"
+},
+{
+  "_id": {
+    "$oid": "672957bce495434eba889804"
+  },
+  "nombre": "Razer DeathAdder V2",
+  "precio": 49,
+  "especificaciones": {
+    "tipo": "Ratón para juegos",
+    "dpi": "20000",
+    "conectividad": "USB"
+  },
+  "categoria": "Accesorios"
+}]

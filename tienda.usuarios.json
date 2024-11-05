@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "6451b1fad3fdaba3cdf70aa0"
+  },
+  "nombre": "Santiago Gomez",
+  "correo": "santiago.gomez@example.com",
+  "edad": 28,
+  "dirección": {
+    "calle": "Cra 13 # 58-02",
+    "ciudad": "Bogotá",
+    "departamento": "Cundinamarca",
+    "código postal": "111321"
+  }
+},
+{
+  "_id": {
+    "$oid": "6451b1fad3fdaba3cdf70aa1"
+  },
+  "nombre": "Andrés Hernandez",
+  "correo": "andres.hernandez@example.com",
+  "edad": 27,
+  "dirección": {
+    "calle": "Cra 70 # 10-22",
+    "ciudad": "Cartagena",
+    "departamento": "Bolívar",
+    "código postal": "130001"
+  }
+},
+{
+  "_id": {
+    "$oid": "6451b1fad3fdaba3cdf70aa2"
+  },
+  "nombre": "Valentina Rodriguez",
+  "correo": "valentina.rodriguez@example.com",
+  "edad": 35,
+  "dirección": {
+    "calle": "Calle 10 # 35-52",
+    "ciudad": "Medellín",
+    "departamento": "Antioquia",
+    "código postal": "050010"
+  }
+},
+{
+  "_id": {
+    "$oid": "6451b1fad3fdaba3cdf70aa3"
+  },
+  "nombre": "Juan Torres",
+  "correo": "juan.torres@example.com",
+  "edad": 23,
+  "dirección": {
+    "calle": "Cra 21 # 4-08",
+    "ciudad": "Cali",
+    "departamento": "Valle del Cauca",
+    "código postal": "760044"
+  }
+},
+{
+  "_id": {
+    "$oid": "6451b1fad3fdaba3cdf70aa4"
+  },
+  "nombre": "Marcela García",
+  "correo": "marcela.garcia@example.com",
+  "edad": 40,
+  "dirección": {
+    "calle": "Cra 50 # 104-03",
+    "ciudad": "Barranquilla",
+    "departamento": "Atlántico",
+    "código postal": "080020"
+  }
+},
+{
+  "_id": {
+    "$oid": "6451be081ac2c56a72d6e714"
+  },
+  "nombre": "John Smith",
+  "correo": "john.smith@example.com",
+  "edad": 45,
+  "dirección": {
+    "calle": "25 Central Park West",
+    "ciudad": "New York",
+    "estado": "NY",
+    "código postal": "10023",
+    "país": "Estados Unidos"
+  }
+},
+{
+  "_id": {
+    "$oid": "6451be8d1ac2c56a72d6e715"
+  },
+  "nombre": "Ana Martinez",
+  "correo": "ana.martinez@example.com",
+  "edad": 31,
+  "dirección": {
+    "calle": "Av. de la Constitución",
+    "ciudad": "Sevilla",
+    "provincia": "Sevilla",
+    "código postal": "41004",
+    "país": "España"
+  }
+}]

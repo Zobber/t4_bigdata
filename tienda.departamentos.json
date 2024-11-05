@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "6451c637a246f1d2ad816fb3"
+  },
+  "Nombre": "Ventas",
+  "Personas": 30,
+  "Ubicacion": {
+    "Ciudad": "Barranquilla",
+    "Departamento": "Atlántico",
+    "País": "Colombia"
+  }
+},
+{
+  "_id": {
+    "$oid": "6451c637a246f1d2ad816fb4"
+  },
+  "Nombre": "Finanzas",
+  "Personas": 25,
+  "Ubicacion": {
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca",
+    "País": "Colombia"
+  }
+},
+{
+  "_id": {
+    "$oid": "6451c637a246f1d2ad816fb5"
+  },
+  "Nombre": "Tecnología",
+  "Personas": 45,
+  "Ubicacion": {
+    "Ciudad": "Cali",
+    "Departamento": "Valle del Cauca",
+    "País": "Colombia"
+  }
+},
+{
+  "_id": {
+    "$oid": "6451c637a246f1d2ad816fb6"
+  },
+  "Nombre": "Marketing",
+  "Personas": 22,
+  "Ubicacion": {
+    "Ciudad": "Cartagena",
+    "Departamento": "Bolívar",
+    "País": "Colombia"
+  }
+},
+{
+  "_id": {
+    "$oid": "6451c637a246f1d2ad816fb7"
+  },
+  "Nombre": "Recursos Humanos",
+  "Personas": 18,
+  "Ubicacion": {
+    "Ciudad": "Medellín",
+    "Departamento": "Antioquia",
+    "País": "Colombia"
+  }
+},
+{
+  "_id": {
+    "$oid": "6451c637a246f1d2ad816fb8"
+  },
+  "Nombre": "Logística",
+  "Personas": 28,
+  "Ubicacion": {
+    "Ciudad": "Pereira",
+    "Departamento": "Risaralda",
+    "País": "Colombia"
+  }
+},
+{
+  "_id": {
+    "$oid": "6451c637a246f1d2ad816fb9"
+  },
+  "Nombre": "Producción",
+  "Personas": 35,
+  "Ubicacion": {
+    "Ciudad": "Bucaramanga",
+    "Departamento": "Santander",
+    "País": "Colombia"
+  }
+}]
